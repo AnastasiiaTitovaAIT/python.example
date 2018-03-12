@@ -1,1 +1,3 @@
-# ya.algorithms.qualification
+#YaAlgorithms: 
+LuckyNumber
+Permutation
